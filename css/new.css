@@ -1,0 +1,27 @@
+.form-table td input{
+	width:400px;
+	}
+.form-table td textarea{
+    width:400px;
+}
+.form-table td span{
+    width:300px;
+}		
+
+.metabox-holder .column-1 {
+	float: left;
+	width: 65%;
+	}
+.metabox-holder .column-2 {
+	float: right;
+	width: 33%;
+	}
+.metabox-holder .column-3 {
+	clear: both;
+	width: 100%;
+	}
+
+	
+
+
+
